@@ -1,4 +1,4 @@
-module opendata
+module github.com/Brainy-Technologies/open-data
 
 go 1.22.1
 
